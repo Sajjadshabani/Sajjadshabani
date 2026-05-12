@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <a href="https://github.com/Sajjadshabani">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Sajjad+%F0%9F%91%8B;Frontend+Developer+%F0%9F%92%BB;React+%26+Next.js+Specialist+%E2%9A%9B%EF%B8%8F;Solidity+%26+Smart+Contracts+%E2%9B%93;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Sajjad+%F0%9F%91%8B;Frontend+Developer+%F0%9F%92%BB;React+%26+Next.js+Specialist+%E2%9A%9B%EF%B8%8F;Node.js+Backend+Developer+%F0%9F%9F%A2;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -13,7 +13,7 @@
 <!-- Profile Badges -->
 <img src="https://komarev.com/ghpvc/?username=Sajjadshabani&label=Profile%20views&color=00d9ff&style=for-the-badge" alt="profile views" />
 <img src="https://img.shields.io/github/followers/Sajjadshabani?label=Followers&style=for-the-badge&color=00d9ff&labelColor=0d1117" alt="followers" />
-<img src="https://img.shields.io/badge/Focus-Web3%20%26%20Frontend-00d9ff?style=for-the-badge&labelColor=0d1117" alt="focus" />
+<img src="https://img.shields.io/badge/Focus-Frontend%20%26%20Node.js-00d9ff?style=for-the-badge&labelColor=0d1117" alt="focus" />
 
 </div>
 
@@ -30,11 +30,11 @@
 const sajjad = {
   role: "Frontend Developer",
   location: "Iran 🇮🇷",
-  code: ["JavaScript", "TypeScript", "Solidity"],
-  frameworks: ["React.js", "Next.js"],
+  code: ["JavaScript", "TypeScript", "Node.js"],
+  frameworks: ["React.js", "Next.js", "Express"],
   styling: ["Tailwind CSS", "CSS3"],
-  blockchain: ["Ethereum", "Smart Contracts", "Web3.js"],
-  currentFocus: "Building modern web apps & exploring Web3",
+  backend: ["Node.js", "REST APIs", "MongoDB"],
+  currentFocus: "Building modern full-stack web applications",
   funFact: "I turn ☕ into clean code"
 };
 ```
@@ -56,7 +56,7 @@ const sajjad = {
 <td align="center" width="96"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="API" width="55"/><br/><sub><b>REST API</b></sub></td>
 </tr>
 <tr>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="Solidity" width="55"/><br/><sub><b>Solidity</b></sub></td>
+<td align="center" width="96"><img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="55"/><br/><sub><b>Node.js</b></sub></td>
 <td align="center" width="96"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="55"/><br/><sub><b>GitHub</b></sub></td>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="55"/><br/><sub><b>Git</b></sub></td>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="55"/><br/><sub><b>HTML5</b></sub></td>
@@ -103,38 +103,6 @@ const sajjad = {
 </a>
 
 </div>
-
-<br/>
-
-<!-- ========== PROJECTS ========== -->
-<div align="center">
-
-## 🚀 Featured Projects
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛒 [My Shop Test](https://github.com/Sajjadshabani/myShopTest)
-
-> An e-commerce practice project built with JavaScript. Hands-on work with product listings, cart logic, and modern frontend patterns.
-
-`JavaScript` `Frontend` `E-Commerce`
-
-</td>
-<td width="50%" valign="top">
-
-### 🚗 [Sajjad Car Shop](https://github.com/Sajjadshabani/SajjadCarShopTest)
-
-> A car shop training project showcasing dynamic UI, product filtering, and clean JavaScript architecture.
-
-`JavaScript` `UI/UX` `Training`
-
-</td>
-</tr>
-</table>
 
 <br/>
 
