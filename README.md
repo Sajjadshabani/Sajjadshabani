@@ -1,7 +1,7 @@
 <!-- ========== HEADER BANNER ========== -->
 <div align="center">
   
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=240&section=header&text=Sajjad%20Shabani&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Web3%20Enthusiast&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:06b6d4,100:0891b2&height=240&section=header&text=Sajjad%20Shabani&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Node.js%20Developer&descAlignY=58&descSize=18"/>
 
 <!-- Typing SVG -->
 <a href="https://github.com/Sajjadshabani">
@@ -56,7 +56,7 @@ const sajjad = {
 <td align="center" width="96"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="API" width="55"/><br/><sub><b>REST API</b></sub></td>
 </tr>
 <tr>
-<td align="center" width="96"><img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="55"/><br/><sub><b>Node.js</b></sub></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="55"/><br/><sub><b>Node.js</b></sub></td>
 <td align="center" width="96"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="55"/><br/><sub><b>GitHub</b></sub></td>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="55"/><br/><sub><b>Git</b></sub></td>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="55"/><br/><sub><b>HTML5</b></sub></td>
@@ -139,7 +139,7 @@ const sajjad = {
 <!-- ========== FOOTER ========== -->
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,50:06b6d4,100:00d9ff&height=120&section=footer"/>
 
 ⭐️ From [Sajjad Shabani](https://github.com/Sajjadshabani) — Thanks for visiting!
 
