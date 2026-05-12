@@ -130,7 +130,17 @@ const sajjad = {
 
 ## 💭 Dev Quote
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<table>
+<tr>
+<td align="center">
+
+> _"The more I learn, the more I realize how much I don't know."_
+>
+> **— Always learning, always growing 🌱**
+
+</td>
+</tr>
+</table>
 
 </div>
 
